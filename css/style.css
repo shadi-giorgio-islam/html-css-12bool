@@ -1,4 +1,8 @@
 body{
-  background-color: #007251;
+  background-image: url('https://www.publicdomainpictures.net/pictures/190000/velka/wood-background-02.jpg');
+  background-size: cover;
   font-family: 'Roboto', sans-serif;
+}
+.container{
+  background-color: #007251;
 }
